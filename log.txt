@@ -1,0 +1,53 @@
+commit 402a815cf2997ce09de87e07b2371dea718fd8ff
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Fri Nov 8 15:53:36 2019 +0000
+
+    Maven project and respective files.
+
+commit cc1cd1672516ee62e53cbcf264a18c178f023698
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Fri Nov 8 15:43:10 2019 +0000
+
+    Updated java fie.
+
+commit 1e2ab10dd0c82b6dab52782d247405da384b6159
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Thu Nov 7 22:30:34 2019 +0000
+
+    Added in change for character validation.
+
+commit 9ff0c5edf2a36b801253989b100c4b360697503c
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Thu Nov 7 20:21:42 2019 +0000
+
+    This is the properties file.
+
+commit a6c1181a44b36f41f1279e30c7548f55ee3b890d
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Thu Nov 7 20:20:42 2019 +0000
+
+    fix
+
+commit ff3ede4495bdfc6e96aabf1025b94832c5cec6d0
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Wed Nov 6 22:20:21 2019 +0000
+
+    This is for CW1.5
+
+commit 7cfcc8ac4ee47f092f08339912e7b2b9cfe4ec74
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Tue Nov 5 16:28:04 2019 +0000
+
+    This is for CW1
+
+commit 5e5f44b98a56ddbdf117ff95fdbe4e1fbd82760a
+Author: Josephb1234 <josephburke62@hotmail.com>
+Date:   Tue Nov 5 16:26:01 2019 +0000
+
+    This is for CW
+
+commit 6735586da10e7be07c6141b0327f903e93ad28b3
+Author: Ubuntu <mjenkins1992@DevOpsVM.4ew1exsr5ynuflluqon0jl1ela.bx.internal.cloudapp.net>
+Date:   Sat Oct 12 16:29:05 2019 +0000
+
+    Add Coursework File
