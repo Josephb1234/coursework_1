@@ -7,7 +7,7 @@ class Dec2Hex
 
     public static void main(String args[])
     {
-        if (args.length > 0) 
+        if (args.length > 0)
         {
             try 
             {
@@ -19,16 +19,10 @@ class Dec2Hex
                 System.exit(1);
             }
         }
-        else (args.length == 0)
+        else
         {
-            try
-            {
-                Arg1 = Integer.parseInt(args[0]);
-            }
-            catch (NumberFormatException e)
-            {
-                System.err.println("You must enter a value!");
-            }
+            System.err.println("You must enter a value!");
+            System.exit(1);
         }
 
     	char ch[]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
@@ -45,7 +39,6 @@ class Dec2Hex
         }
         
         System.out.println("Hexadecimal representation is : " + hexadecimal);
-	System.out.println("This was my change in the file");
 
     }
 }
